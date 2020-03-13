@@ -1,0 +1,65 @@
+{
+    "title":"Bullshit",
+    "famous":[
+    "Montaigne 1,The value of life lies not in the length of days, but in the use we make of them.2",
+    "H. D. Thoreau 1,It is not enough to be industrious, so are the ants. What are you industrious for? 2",
+    "Franklin Roosevelt 1,The only limit to our realization of tomorrow will be our doubts of today.2",
+	"La Rochefoucauld 1,The fame of great men ought to be judged always by the means they used to acquire it.2",
+	"Thomas Paine 1,Failure is the mother of success.2",
+	"Corrie Tem Boom 1,Faith is like the radar that sees through the fog-the reality of things at a distance that the human eye cannot see.2",
+	"Nehru 1,One may overcome a thousand men in battle.but he who conquers himself is the greatest victor.2",
+	"O.Goldsmith 1,Our greatest glory consists not in never falling but in rising every time we fall.2",
+	"Mark Twain 1,Don’t part with your illusions. When they are gone you may still exist, but you have ceased to live.2",
+	"J.Addion 1,A money lender serves you in the present tense, lends you in the conditional mood, keeps you in the subjuctive, and ruins you in the future.2",
+	"Bernara Shaw 1,The people who get on in this world are the people who get up and look for circumstances they want, and if they cannot find them, make them.2",
+	"Longfellow 1,Something attempted, something done.2",
+	"Kay Bradbury 1,Without libraries what have we? We have no past and no future.2",
+	"Lu Xun 1,Fierce-browed, I coolly defy a thousand pointing fingers; head bowed, like a willing ox I serve the children.2",
+	"T.Edison 1,Achievement provides the only real pleasure in life.2",
+	"Smedley 1,Lookers-on see most of the game.2"
+	],
+    "bosh":[
+    "Now, it is important to solve the problem that is x. So, ",
+    "We have to face a awlkard thing that is x.",
+    "x, how do we achieve it? ",
+	"Everybody knows that x is important. ",
+	"These days we are often told that, but is this really the case?",
+	"There’s no denying the fact that x values a lot.",
+	"Undeniably,",
+	"We hold it truth to be self-evident that ",
+	"It is a well-known fact that ",
+	"Along with the dramatic economic growth and groundbreaking socialand psychological displacement, there’s an urgent demand that we need x. ",
+	"x is not only necessary, but also indispensable.",
+	"x plays a significantpart in our society, so it is essential that its position be emphasized.",
+	"x has been overlookeduntil recently."
+    ],
+    "after":[
+    "It makes me thinking a lot.",
+    "It inspires me. ",
+    "I hope you guys think about this statement deeply. ",
+	"It is still up to date. ",
+	"I would totally agree with what he said. ",
+	"What wonderful words!",
+	"We have to take his words in to consideration!",
+	"I wouldn't deny his words. ",
+	"Obviously, what he said is absolutely correct. ",
+	"it means a lot to our society. "
+    ],
+    "before":[
+    "had said that ",
+    "had mentioned that ",
+    "talked about that ",
+    "claimed: ",
+	"once said that ",
+	"had a famous comment that ",
+	"used to say that ",
+	"said: ",
+	"talked: ",
+	"shout out that ",
+	"said to everyone that ",
+	"warned us that ",
+	"speaked in a speech that ",
+	"writed it in his book that "
+    ]
+}
+
